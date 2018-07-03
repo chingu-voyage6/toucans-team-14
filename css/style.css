@@ -1,0 +1,7 @@
+.text-big {
+    font-family: Poppins,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 3em;
+    font-weight:400;
+	letter-spacing: -1px;
+	line-height: 3rem;
+}
